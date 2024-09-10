@@ -1,3 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Сценарий+игры)](https://git.io/typing-svg)
+В начале игры на главном экране у пользователя есть возможность выбрать один объект, на котором будет базироваться вся игра. (замок, форт, монастырь). 
+Далее пользователь вводит необходимые данные об объекте.
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Описание+библиотеки+классов)](https://git.io/typing-svg)
 #### Название библиотеки – LibraryOfLaba4_1.dll
 #### Пространство имен - LibraryOfLaba4_1
