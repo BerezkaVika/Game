@@ -1,0 +1,63 @@
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Оп-оп, живем-живем!)))\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Оп-оп, живем-живем!)))\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Оп-оп, живем-живем!)))\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Оп-оп, живем-живем!)))\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Оп-оп, живем-живем!)))\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Хуета\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Хуета\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Хуета\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Хуета\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Хуета\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Леший\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Леший\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Леший\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Леший\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Леший\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Надеюсь конечный\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Надеюсь конечный\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Надеюсь конечный\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Надеюсь конечный\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Надеюсь конечный\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Лосось\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Лосось\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Лосось\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Лосось\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Лосось\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\LibraryOfLaba4_1\LibraryOfLaba4_1\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.dll
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\LibraryOfLaba4_1\LibraryOfLaba4_1\obj\Debug\LibraryOfLaba4_1.pdb

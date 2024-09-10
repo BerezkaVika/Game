@@ -1,0 +1,466 @@
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторка №3\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторка №3\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторка №3\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторка №3\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfSumMoney.dll
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторка №3\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfSumMoney.pdb
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторка №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторка №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторка №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторка №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторка №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторка №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторка №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторка №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторка №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторка №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторка №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CopyComplete
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторка №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторка №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfSumMoney.dll
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfSumMoney.pdb
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CopyComplete
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Вика суперстар\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CopyComplete
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfSumMoney.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №3\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfSumMoney.pdb
+C:\Users\Настя\Desktop\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Настя\Desktop\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Настя\Desktop\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Настя\Desktop\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfSumMoney.pdb
+C:\Users\Настя\Desktop\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Настя\Desktop\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Настя\Desktop\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CopyComplete
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№4\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№5\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№6\Итог без условий\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Другаялабка8\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Другаялабка8\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Другаялабка8\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Другаялабка8\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Другаялабка8\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Другаялабка8\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Другаялабка8\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Другаялабка8\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Другаялабка8\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Другаялабка8\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Другаялабка8\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Другаялабка8\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Другаялабка8\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Другаялабка8\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Другаялабка8\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Другаялабка8\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Другаялабка8\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Другаялабка8\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Сдать\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Оп-оп, живем-живем!)))\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Оп-оп, живем-живем!)))\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Оп-оп, живем-живем!)))\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Оп-оп, живем-живем!)))\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Оп-оп, живем-живем!)))\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Оп-оп, живем-живем!)))\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Оп-оп, живем-живем!)))\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Оп-оп, живем-живем!)))\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Оп-оп, живем-живем!)))\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Оп-оп, живем-живем!)))\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Оп-оп, живем-живем!)))\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Оп-оп, живем-живем!)))\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Оп-оп, живем-живем!)))\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Оп-оп, живем-живем!)))\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Оп-оп, живем-живем!)))\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Оп-оп, живем-живем!)))\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Оп-оп, живем-живем!)))\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Хуета\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Хуета\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Хуета\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Хуета\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Хуета\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Хуета\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Хуета\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Хуета\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Хуета\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Хуета\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Хуета\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Хуета\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Хуета\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Хуета\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Хуета\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Хуета\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Хуета\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик2\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик2\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик2\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик2\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик2\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик2\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик2\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик2\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик2\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик2\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик2\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик2\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик2\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик2\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик2\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик2\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Варик2\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Пончик\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CopyComplete
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Леший\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Леший\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Леший\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Леший\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Леший\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Леший\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Леший\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Леший\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Леший\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Леший\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Леший\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Леший\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Леший\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Леший\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Леший\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Леший\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Леший\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Надеюсь конечный\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Надеюсь конечный\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Надеюсь конечный\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Надеюсь конечный\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Надеюсь конечный\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Надеюсь конечный\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Надеюсь конечный\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Надеюсь конечный\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Надеюсь конечный\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Надеюсь конечный\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Надеюсь конечный\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Надеюсь конечный\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Надеюсь конечный\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Надеюсь конечный\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Надеюсь конечный\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Надеюсь конечный\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Надеюсь конечный\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Лосось\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Лосось\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Лосось\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Лосось\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Лосось\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Лосось\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Лосось\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Лосось\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Лосось\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Лосось\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Лосось\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Лосось\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Лосось\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Лосось\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Лосось\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Лосось\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Лосось\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная №8\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с файлами\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с файлами\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с файлами\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с файлами\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с файлами\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с файлами\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с файлами\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с файлами\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с файлами\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с файлами\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с файлами\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с файлами\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с файлами\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с файлами\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с файлами\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с файлами\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с файлами\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с листбоксом и файлами новый дизайн\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с листбоксом и файлами новый дизайн\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с листбоксом и файлами новый дизайн\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с листбоксом и файлами новый дизайн\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с листбоксом и файлами новый дизайн\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с листбоксом и файлами новый дизайн\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с листбоксом и файлами новый дизайн\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с листбоксом и файлами новый дизайн\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с листбоксом и файлами новый дизайн\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с листбоксом и файлами новый дизайн\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с листбоксом и файлами новый дизайн\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с листбоксом и файлами новый дизайн\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с листбоксом и файлами новый дизайн\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с листбоксом и файлами новый дизайн\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с листбоксом и файлами новый дизайн\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с листбоксом и файлами новый дизайн\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\Настя\Desktop\Программирование\Основы АИП\Лабораторная№11\Проба с листбоксом и файлами новый дизайн\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+F:\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+F:\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+F:\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+F:\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+F:\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+F:\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+F:\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+F:\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+F:\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+F:\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+F:\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+F:\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+F:\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+F:\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+F:\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+F:\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+F:\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+E:\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+E:\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+E:\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+E:\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+E:\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+E:\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+E:\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.SuggestedBindingRedirects.cache
+E:\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+E:\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+E:\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+E:\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+E:\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+E:\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+E:\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+E:\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+E:\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+E:\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CopyComplete
+E:\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+E:\Основы АИП\Лабораторная№9\Самый последний вариант\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\Window1.g.cs
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.cache
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney_MarkupCompile.lref
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.exe
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.pdb
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe.config
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.exe
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\ProjectOfSumMoney.pdb
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\castle.dll
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.dll
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\castle.pdb
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\bin\Debug\LibraryOfLaba4_1.pdb
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\Window1.baml
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.g.resources
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.Properties.Resources.resources
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\ProjectOfSumMoney.csproj.CopyComplete
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\Window2.g.cs
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\Window3.g.cs
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\Window2.baml
+C:\Users\user\Desktop\Лабораторная №15\Лабораторная №15\ProjectOfSumMoney\ProjectOfSumMoney\obj\Debug\Window3.baml

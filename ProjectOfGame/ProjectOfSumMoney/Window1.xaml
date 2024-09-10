@@ -1,0 +1,77 @@
+﻿<Window x:Class="ProjectOfSumMoney.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectOfSumMoney"
+        mc:Ignorable="d"
+        Title="Window1" Height="738.42" Width="548">
+    <Grid Margin="0,10,29,0" Height="693" VerticalAlignment="Top">
+        <TextBox x:Name="TBMoneyB" HorizontalAlignment="Left" Height="28" Margin="1105,295,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="88" RenderTransformOrigin="0.679,0.625" IsEnabled="False"/>
+        <Rectangle HorizontalAlignment="Left" Height="210" Margin="32,481,0,0" Stroke="Black" VerticalAlignment="Top" Width="453" RenderTransformOrigin="0.5,0.5" Opacity="0.6">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.223"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="-0.746"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <TextBlock HorizontalAlignment="Left" Height="28" Margin="33,258,0,0" TextWrapping="Wrap" Text="Ваш вклад:" VerticalAlignment="Top" Width="88" RenderTransformOrigin="0.773,0.625"/>
+        <TextBox x:Name="TBMoney1" HorizontalAlignment="Left" Height="28" Margin="144,252,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="88" RenderTransformOrigin="0.679,0.625" IsEnabled="False" Background="#FFF3F381"/>
+        <TextBlock HorizontalAlignment="Left" Height="28" Margin="34,214,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="88" RenderTransformOrigin="0.773,0.625"><Run Text="Тип "/><Run Text="вклад"/><Run Text="а"/><Run Text=":"/></TextBlock>
+        <Button x:Name="ButtonSet" Content="Установить" HorizontalAlignment="Left" Margin="337,168,0,0" VerticalAlignment="Top" Width="149" Height="27" Click="ButtonType_Click"/>
+        <TextBlock HorizontalAlignment="Left" Height="28" Margin="33,339,0,0" TextWrapping="Wrap" Text="% по вкладу:" VerticalAlignment="Top" Width="88"/>
+        <TextBox x:Name="TBPersent1" HorizontalAlignment="Left" Height="28" Margin="146,336,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="86" IsEnabled="False"/>
+        <TextBlock x:Name="TBlock1" HorizontalAlignment="Left" Height="36" Margin="33,379,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="102"/>
+        <TextBox x:Name="TBCondition1" HorizontalAlignment="Left" Height="28" Margin="147,379,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="86" RenderTransformOrigin="0.679,0.625" Background="#FFF3F381" IsEnabled="False"/>
+        <TextBlock HorizontalAlignment="Left" Height="28" Margin="33,296,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="102" Text="Установить срок:"/>
+        <Button x:Name="ButtonTermSet1" Content="Поменять срок" HorizontalAlignment="Left" Margin="337,296,0,379" Width="149" RenderTransformOrigin="1.305,0.353" Background="#FFFF55D8" IsEnabled="False" Click="ButtonTermSet1_Click"/>
+        <ComboBox x:Name="CBTerm1" HorizontalAlignment="Left" Margin="146,292,0,385" Width="86">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                    <GradientStop Color="#FFF7F774" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+            <TextBlock Text="1"/>
+            <TextBlock Text="2"/>
+            <TextBlock Text="3"/>
+            <TextBlock Text="6"/>
+            <TextBlock Text="12"/>
+            <TextBox Width="76"/>
+        </ComboBox>
+        <Button x:Name="ButtonAdd" Content="Добавить" HorizontalAlignment="Left" Margin="33,429,0,0" VerticalAlignment="Top" Width="453" Height="27" Click="ButtonAdd_Click" IsEnabled="False"/>
+        <ComboBox x:Name="CBType1" HorizontalAlignment="Left" Height="27" Margin="144,210,0,0" VerticalAlignment="Top" Width="120
+                  " IsEnabled="False">
+            <TextBlock Text="Базовый                        "/>
+            <TextBlock Text="Особый"/>
+            <TextBlock Text="Премьер"/>
+        </ComboBox>
+        <Button x:Name="ButtonOpen1" Content="Открыть вклад" HorizontalAlignment="Left" Height="26" Margin="337,254,0,0" VerticalAlignment="Top" Width="149" RenderTransformOrigin="1.305,0.353" Background="#FF2FCF00" Click="ButtonOpen1_Click" IsEnabled="False"/>
+        <TextBox x:Name="TBCount1" HorizontalAlignment="Left" Height="28" Margin="148,547,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="84" IsEnabled="False"/>
+        <TextBlock HorizontalAlignment="Left" Height="28" Margin="44,594,0,0" TextWrapping="Wrap" Text="Результат:" VerticalAlignment="Top" Width="88"/>
+        <Button x:Name="ButttonOperation1" Content="Посчитать" HorizontalAlignment="Left" Height="28" Margin="258,547,0,0" VerticalAlignment="Top" Width="99" Background="#FFFFBF15" IsEnabled="False" Click="ButttonOperation1_Click"/>
+        <Label x:Name="LabelResult1" Content="" HorizontalAlignment="Left" Height="28" Margin="148,594,0,0" VerticalAlignment="Top" Width="86"/>
+        <TextBox x:Name="TB" HorizontalAlignment="Left" Height="28" Margin="144,168,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="176" RenderTransformOrigin="0.679,0.625" Background="White"/>
+        <ComboBox x:Name="CBOperation1" HorizontalAlignment="Left" Margin="146,498,0,179" Width="211">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                    <GradientStop Color="#FFF7F774" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+            <TextBlock Text="начислить сумму"/>
+            <TextBlock Text="снять сумму"/>
+            <TextBlock Text="начислить процент"/>
+        </ComboBox>
+        <TextBlock HorizontalAlignment="Left" Height="27" Margin="44,497,0,0" TextWrapping="Wrap" Text="Операция: " VerticalAlignment="Top" Width="77"/>
+        <TextBlock HorizontalAlignment="Left" Height="28" Margin="44,547,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="99"><Run Text="С"/><Run Text="умм"/><Run Text="а"/><Run Text=":"/></TextBlock>
+        <Button Content="Открыть вклад" HorizontalAlignment="Left" Height="28" Margin="30,26,0,0" VerticalAlignment="Top" Width="155" IsEnabled="False"/>
+        <Button Content="Вклады" HorizontalAlignment="Left" Height="28" Margin="185,26,0,0" VerticalAlignment="Top" Width="152" Click="Button_Click"/>
+        <Button Content="История операций" HorizontalAlignment="Left" Height="28" Margin="337,26,0,0" VerticalAlignment="Top" Width="149" Cursor="AppStarting"/>
+        <ListBox x:Name="List" HorizontalAlignment="Left" Height="81" Margin="30,71,0,0" VerticalAlignment="Top" Width="456" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+        <TextBlock HorizontalAlignment="Left" Height="20" Margin="33,172,0,0" TextWrapping="Wrap" Text="Название:" VerticalAlignment="Top" Width="88" RenderTransformOrigin="0.773,0.625"/>
+    </Grid>
+</Window>
